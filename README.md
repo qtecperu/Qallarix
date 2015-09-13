@@ -1,0 +1,2 @@
+# Qallarix
+Comunidad Educativa
