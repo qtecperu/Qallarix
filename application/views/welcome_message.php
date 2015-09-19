@@ -14,6 +14,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 	<div id="body">
 		<p>Plataforma Tecnologica para formar una nueva Comunidad Educativa en Peru</p>
+		<p><?= $string ?></p>
 	</div>
 </div>
 
